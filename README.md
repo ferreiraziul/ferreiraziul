@@ -1,34 +1,36 @@
-## 🌸 Bem-vindo ao meu GitHub! 🌸  
-Oi! Eu sou a *Lulu Marmotinha* 🐹✨ e este é o meu cantinho no GitHub! Aqui você encontra meus projetos incríveis.  
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<div align="center">
-  <img src="[https://i.gifer.com/7efs.gif](https://media.discordapp.net/attachments/1145375666179690536/1354981337773379584/WhatsApp-Video-2025-03-27-at-9.49.41-PM.gif?ex=67e74435&is=67e5f2b5&hm=b7e681de60fc3fa69518377656a3819ef5d3006a68707601a499b54889c639e5&=&width=563&height=563)" width="200px">
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
----
+###
 
-### 💖 Sobre mim:  
-- 🎨 *Criativa* e apaixonada por artes, história e geografia!  
-- 🎮 Jogadora de *Valorant* (Main *Sage*!)  
-- 🍫 Vendedora de *brigadeiros* desde 2022!  
-- 🔥 Criadora e administradora do *LaruSMP*  
-- 👻 Criando um *RPG incrível* baseado na Ordem Realitas!  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
-
-### 🛠️ Meus Projetos:  
-💡 Atualmente, estou trabalhando em:  
-✅ Um site fofo com *HTML, CSS e JavaScript*!  
-✅ Meu RPG de terror *Ordem Realitas*!  
-✅ O servidor *LaruSMP* no Minecraft!  
-
----
-
-### 🌟 Onde me encontrar?  
-📌 *GitHub Pages:* [Meu site](https://seu-usuario.github.io/)  
-📌 *Twitter/X:* [@seuTwitter](https://twitter.com/)  
-📌 *Discord:* Lulu#1234  
-
----
-
-> “A vida é muito curta para não ser fofa e cheia de criatividade!” 🌸✨
+###
