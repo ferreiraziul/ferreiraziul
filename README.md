@@ -26,3 +26,5 @@
 </div>
 
 ###
+
+> _“Minha mãe sempre disse que as coisas que perdemos têm um jeito de voltar para nós no final!”_ :cherry_blossom:﻿﻿:sparkles:﻿  
