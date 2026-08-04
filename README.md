@@ -36,6 +36,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ferreiraziul/ferreiraziul/snake-output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ferreiraziul/ferreiraziul/blob/output/github-contribution-grid-snake.svg)
 
 ###
