@@ -29,4 +29,6 @@
 
 ###
 
-> _“Minha mãe sempre disse que as coisas que perdemos têm um jeito de voltar para nós no final!”_ :cherry_blossom:﻿﻿:sparkles:﻿  
+> _“Minha mãe sempre disse que as coisas que perdemos têm um jeito de voltar para nós no final!”_ :cherry_blossom:﻿﻿:sparkles:
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/ferreiraziul/ferreiraziul/snake-output/snake.svg" alt="Snake animation" />
