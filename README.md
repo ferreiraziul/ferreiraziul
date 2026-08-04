@@ -16,19 +16,26 @@
 
 ###
 
-<div align="left">
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/ferreiraziul" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/ferreiraziul/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/ferreiraziul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="https://discordapp.com/users/736205463842193469" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="37" alt="discord logo"  />
   </a>
-    <a href="https://www.linkedin.com/in/luiza-ferreira-28b02a289/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
 
 ###
 
 > _“Minha mãe sempre disse que as coisas que perdemos têm um jeito de voltar para nós no final!”_ :cherry_blossom:﻿﻿:sparkles:
 
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/ferreiraziul/ferreiraziul/snake-output/snake.svg" alt="Snake animation" />
+
+###
