@@ -32,8 +32,6 @@
 
 > _"Minha mãe sempre disse que as coisas que perdemos têm um jeito de voltar para nós no final!"_ :cherry_blossom: :sparkles:
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferreiraziul/ferreiraziul/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferreiraziul/ferreiraziul/output/github-snake.svg" />
